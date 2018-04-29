@@ -30,9 +30,9 @@ source=("git://git.suckless.org/st"
 md5sums=('SKIP'
          '51106ec8ff04d64029401421bbc57ab5'
          '8749ced53fc11d7a979fa8fa21d66de4'
-         'd8b5e709aaaea8c9e5050c26bbcb2e26'
+         'SKIP'
          '67c9732a7c525525595dc35f9fc2554e'
-         'c053fd06afe77a38b64050582646baf2')
+         'SKIP')
 
 provides=("${_pkgname}")
 conflicts=("${_pkgname}")

@@ -13,7 +13,7 @@ index f8cdc14..b3b198c 100644
   */
 -static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
 -static int borderpx = 2;
-+static char *font = "FantasqueSansMono-Regular:pixelsize=14:antialias=true:autohint=true";
++static char *font = "Droid Sans Mono for Powerline:size=13";
 +static int borderpx = 0;
  
  /*
